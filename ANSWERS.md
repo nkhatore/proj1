@@ -24,6 +24,10 @@ There is a set of error messages in 'layouts' which gets accessed by this line a
 
 # Give us feedback on the project and decal below!
 
-Can we have less work?
+Interesting project.
 
 # Extra credit: Link your Heroku deployed app
+
+# LINK TO REPO:
+
+https://github.com/nkhatore/proj1.git
